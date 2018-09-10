@@ -10,6 +10,7 @@
 </head>
 
 <body>
+    <h1>Tasks Manager</h1>
     <ul>
         <?php foreach ($tasks as $task) : ?>
 
